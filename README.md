@@ -1,9 +1,9 @@
 # Power 4
 Welcome to the Power 4 project! This classic game lets you play against another player by placing chips in a grid and trying to line up four chips of your color.
 ## Technologies used
-- HTML**: Game structure.
-- CSS**: Styles and layout.
-- JavaScript**: Game logic.
+- **HTML**: Game structure.
+- **CSS**: Styles and layout.
+- **JavaScript**: Game logic.
 
 ## Prerequisites
 Before launching the game, make sure you have installed the **Live Server** extension in your code editor. This extension enables you to launch a local server to view your game in real time.
