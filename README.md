@@ -1,46 +1,37 @@
-# Puissance 4
+# Power 4
+Welcome to the Power 4 project! This classic game lets you play against another player by placing chips in a grid and trying to line up four chips of your color.
+## Technologies used
+- HTML**: Game structure.
+- CSS**: Styles and layout.
+- JavaScript**: Game logic.
 
-Bienvenue sur le projet Puissance 4 ! Ce jeu classique vous permet de jouer contre un autre joueur en plaçant des jetons dans une grille pour essayer d'aligner quatre jetons de votre couleur.
-
-## Technologies Utilisées
-
-- **HTML** : Structure du jeu.
-- **CSS** : Styles et mise en page.
-- **JavaScript** : Logique du jeu.
-
-## Prérequis
-
-Avant de lancer le jeu, assurez-vous d'avoir installé l'extension **Live Server** dans votre éditeur de code. Cette extension permet de lancer un serveur local pour visualiser votre jeu en temps réel.
+## Prerequisites
+Before launching the game, make sure you have installed the **Live Server** extension in your code editor. This extension enables you to launch a local server to view your game in real time.
 
 ## Installation
+To install the project, follow these steps:
 
-Pour installer le projet, suivez ces étapes :
+1. Clone the repository on your machine:
+   ```
+   git clone https://url.git
+2. Go to the project directory:
+    ```
+    cd your-directory
+## Launch the game
 
-1. Clonez le dépôt sur votre machine :
-   ```bash
-   git clone https://votre-url-de-depot.git
-2. Accédez au répertoire du projet :
-    ```bash
-    cd votre-repertoire
+To launch the game, you have two options:
 
-## Lancer le Jeu
+With Live Server
 
-Pour lancer le jeu, vous avez deux options :
+    Open your code editor (e.g. Visual Studio Code).
+    Open the folder containing the index.html file.
+    Right-click on the index.html file and select "Open with Live Server".
 
-Avec Live Server
+Without Live Server
 
-    Ouvrez votre éditeur de code (par exemple, Visual Studio Code).
-    Ouvrez le dossier contenant le fichier index.html.
-    Cliquez droit sur le fichier index.html et sélectionnez "Ouvrir avec Live Server".
+If you don't have the Live Server extension, you can also launch the project using the following command in your terminal or command prompt:
+```start index.html```
 
-Sans Live Server
+Your Power 4 game will then open in your default browser.
 
-Si vous n'avez pas l'extension Live Server, vous pouvez également lancer le projet en utilisant la commande suivante dans votre terminal ou invite de commandes :
-
-    ```bash
-    start index.html
-
-
-Votre jeu Puissance 4 s'ouvrira alors dans votre navigateur par défaut.
-
-Merci de visiter mon projet !
+Thank you for visiting my project!
